@@ -1,6 +1,6 @@
 # english-scripts
 
-이 Repository 는 페이스북 [영어공부하기(미드/영드/연극 대본읽기)](https://www.facebook.com/groups/english.script.reading/) 그룹에서 운영하는 Repository 입니다.   
+이 Repository [박동호](https://www.facebook.com/huedonghopark) 가 운영하는 Repo 입니다.
 
 ## 대본목록
 
